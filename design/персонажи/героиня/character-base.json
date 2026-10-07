@@ -1,0 +1,206 @@
+{
+  "checks": {
+    "age": [
+      "18 лет"
+    ],
+    "gender": [
+      "женщина"
+    ],
+    "height": [
+      "низкий 165 см"
+    ],
+    "build": [
+      "среднее"
+    ],
+    "pose": [
+      "в полный рост"
+    ],
+    "ethnicity": [
+      "средний восток"
+    ],
+    "facial-features": [
+      "широкие скулы",
+      "добрые",
+      "хитрые"
+    ],
+    "skin": [
+      "светлая"
+    ],
+    "eye-shape": [],
+    "eye-style": [],
+    "eye-effects": [],
+    "eye-color": [
+      "карие"
+    ],
+    "hair-color": [
+      "каштановые"
+    ],
+    "hair": [
+      "кудрявые",
+      "длинные",
+      "заплетённые в косу"
+    ],
+    "beard": [],
+    "mustache": [],
+    "brows": [],
+    "nose": [],
+    "clothes": [],
+    "style": [
+      "манга"
+    ],
+    "character-sheets": [],
+    "reference-sheet": [],
+    "positive-sheets": [],
+    "negative-sheets": [],
+    "anxious-sheets": [],
+    "reactive-sheets": [],
+    "romantic-sheets": [],
+    "comedic-sheets": []
+  },
+  "custom": {
+    "age": {
+      "visible": false,
+      "value": ""
+    },
+    "gender": {
+      "visible": false,
+      "value": ""
+    },
+    "height": {
+      "visible": false,
+      "value": ""
+    },
+    "build": {
+      "visible": false,
+      "value": ""
+    },
+    "pose": {
+      "visible": false,
+      "value": ""
+    },
+    "ethnicity": {
+      "visible": false,
+      "value": ""
+    },
+    "facial-features": {
+      "visible": false,
+      "value": ""
+    },
+    "skin": {
+      "visible": false,
+      "value": ""
+    },
+    "eye-shape": {
+      "visible": false,
+      "value": ""
+    },
+    "eye-style": {
+      "visible": false,
+      "value": ""
+    },
+    "eye-effects": {
+      "visible": false,
+      "value": ""
+    },
+    "eye-color": {
+      "visible": false,
+      "value": ""
+    },
+    "hair-color": {
+      "visible": false,
+      "value": ""
+    },
+    "hair": {
+      "visible": false,
+      "value": ""
+    },
+    "beard": {
+      "visible": false,
+      "value": ""
+    },
+    "mustache": {
+      "visible": false,
+      "value": ""
+    },
+    "brows": {
+      "visible": false,
+      "value": ""
+    },
+    "nose": {
+      "visible": false,
+      "value": ""
+    },
+    "clothes": {
+      "visible": true,
+      "value": "wide-brimmed hat, long white dress with a pleated skirt"
+    },
+    "style": {
+      "visible": false,
+      "value": ""
+    },
+    "character-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "reference-sheet": {
+      "visible": false,
+      "value": ""
+    },
+    "positive-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "negative-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "anxious-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "reactive-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "romantic-sheets": {
+      "visible": false,
+      "value": ""
+    },
+    "comedic-sheets": {
+      "visible": false,
+      "value": ""
+    }
+  },
+  "locked": {
+    "age": false,
+    "gender": true,
+    "height": true,
+    "build": true,
+    "pose": true,
+    "ethnicity": true,
+    "facial-features": true,
+    "skin": false,
+    "eye-shape": false,
+    "eye-style": false,
+    "eye-effects": false,
+    "eye-color": false,
+    "hair-color": false,
+    "hair": false,
+    "beard": false,
+    "mustache": false,
+    "brows": false,
+    "nose": false,
+    "clothes": false,
+    "style": false,
+    "character-sheets": false,
+    "reference-sheet": false,
+    "positive-sheets": false,
+    "negative-sheets": false,
+    "anxious-sheets": false,
+    "reactive-sheets": false,
+    "romantic-sheets": false,
+    "comedic-sheets": false
+  },
+  "charData": "",
+  "promptData": ""
+}
